@@ -1,5 +1,5 @@
 /**
- * Info about this package doing something for package-info.java file.
+ * This package doing something for package-info.java file.
  */
 package com.example;
 
@@ -9,12 +9,14 @@ package com.example;
 public class Greeter {
 
   /**
-   * This is a constructor. 
+   * This is a constructor of Greeter. 
    */
   public Greeter() {
   }
 
   /**
+   * This is a simple description of the method.
+   *
    * @param someone the name of a person
    * @return greeting string
    */
