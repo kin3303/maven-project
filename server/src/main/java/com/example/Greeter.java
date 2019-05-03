@@ -1,5 +1,6 @@
 /**
  * This package doing something for package-info.java file.
+ * Test multiline
  */
 package com.example;
 
